@@ -259,7 +259,7 @@ Member 6:
 Techcrush Institute[] (Lam8da_2025)
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
-ContactEmail: [your-group-email@example.com]
+ContactEmail: [group-email@example.com]
 ### GitHub Issues: 
 https://github.com/myname1sace/Lam8da_2025/issues
 ### Acknowledgments
