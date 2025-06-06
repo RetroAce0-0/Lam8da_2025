@@ -20,7 +20,7 @@ Lambda team focuses on customer churn as a project for a Telecom company using t
 Welcome to the **Telco Customer Churn Analysis**, a capstone project by the Lam8da_2025 team! This initiative applies advanced data science techniques to analyze customer churn in a telecommunications dataset. By investigating demographics, service subscriptions, and billing patterns, we aim to identify churn drivers and inform retention strategies. Currently, our work includes data cleaning and exploratory visualizations, with predictive modeling and recommendations planned for future phases.
 
 ## Problem Statement
-Customer churn represents a critical challenge for telecommunications providers, resulting in lost revenue and elevated acquisition costs. The Telco Customer Churn dataset, comprising 7,043 rows and 21 columns, exhibits class imbalance and intricate relationships among features like tenure, charges, and contract types. Our objective is to pinpoint key factors driving churn—such as high costs or short-term contracts—and deliver actionable insights to enhance customer retention and business stability.
+A Telecom company is experiencing customer attrition and aims to improve customer retention by predicting which customers are likely to churn. Customer churn represents a critical challenge for telecommunications providers, resulting in lost revenue and elevated acquisition costs. The Telco Customer Churn dataset, comprising 7,043 rows and 21 columns, exhibits class imbalance and intricate relationships among features like tenure, charges, and contract types. Our objective is to pinpoint key factors driving churn—such as high costs or short-term contracts—and deliver actionable insights to enhance customer retention and business stability.
 
 ## Features
 - **Churn Insights**: Detailed visualizations of churn behavior and trends.
@@ -253,7 +253,7 @@ Member 1: [Role, Data Analyst]
 Member 2: [Role, Visualization Expert]
 Member 3: [Role, Preprocessing Lead]
 Member 4: [Role, Project Manager]
-Member 5:
+Member 5: 
 Member 6:
 ### Organization: 
 Techcrush Institute[] (Lam8da_2025)
